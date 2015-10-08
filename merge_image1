@@ -1,6 +1,0 @@
-<?php
-$img_dest = imagecreatefrompng('img/cover.png');
-$img_src_or = imagecreatefromjpeg('img/profile_picture.jpg');
-
-$width=imagesx($mg_src_or);
-?>
